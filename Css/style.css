@@ -1,0 +1,100 @@
+p { 
+    text-align: center;
+    position: relative;
+    font-size: 30px;
+    top: -10px;
+    left: 15px;
+}
+.rightdiv {
+    float: right;
+    height: 700px;
+    width: 700px;
+}
+.container1 {/*header*/
+    background-color: black;
+    text-align: center;
+    color: white;
+    left: 360px;
+    height: 70px;
+    display: flex;
+    width: 1200px;
+    margin: auto;
+}
+.container2 {
+    outline: 3px solid black;
+    float: left;
+    margin-left: 353px;
+    width: 400px;
+    height: 600px;
+    margin-right: 94px;
+    margin-top: 20px;
+}
+.container3 {
+    outline: 3px solid black;
+    display: inline-flex;
+    width: 700px;
+    height: 250px;
+    margin-right: 400px;
+    margin-top: 20px;
+}
+.container4 {
+    outline: 3px solid black;
+    display: inline-flex;
+    width: 700px;
+    height: 250px;
+    margin-right: 400px;
+    margin-top: 20px;
+}
+.container5 {
+    outline: 3px solid black;
+    display: inline-flex;
+    width: 700px;
+    height: 250px;
+    margin-right: 400px;
+    margin-top: 20px;
+}
+.header3 {
+    text-align: center;
+}
+.header2 {
+    padding: 20px;
+}
+.likes2 {
+    position: relative;
+    top: 100px;
+    right: 20px;
+    width: 100px;
+    height: 40px;
+    background-color: yellow;
+    font-size: 15px;
+}
+.likes3 {
+    position: relative;
+    top: 100px;
+    right: 20px;
+    width: 100px;
+    height: 40px;
+    background-color: yellow;
+    font-size: 15px;
+}
+.likes4 {
+    position: relative;
+    top: 100px;
+    right: 20px;
+    width: 100px;
+    height: 40px;
+    background-color: yellow;
+    font-size: 15px;
+}
+.likes2:hover {
+    background-color: rgb(255, 255, 194);
+}
+.likes3:hover {
+    background-color: rgb(255, 255, 194);
+}
+.likes4:hover {
+    background-color: rgb(255, 255, 194);
+}
+.leftside {
+    margin-left:109px;
+}
